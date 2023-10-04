@@ -5,3 +5,7 @@
 ```java
 Scanner scanner = new Scanner(System.in);
 ```
+
+- [x] Do the thing
+- [x] Do the other thing
+- [ ] Check off things done
